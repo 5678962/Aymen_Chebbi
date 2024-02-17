@@ -2,7 +2,7 @@
   Hello, I'm Aymen
 </h1>
 <p>
-<h2 align="center"> About Me  </h2>
+<h2 align="center" font-weight="bold"> About Me  </h2>
   <br/>
 My journey in the IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.<br/>
 </p>
